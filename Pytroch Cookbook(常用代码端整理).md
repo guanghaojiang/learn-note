@@ -1,5 +1,16 @@
 # Pytroch Cookbook(常用代码端整理)
 
+```
+token
+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  
+
+git remote add origin https://github.com/guanghaojiang/learn-note.git
+git branch -M master
+git push -u origin master
+```
+
+
+
 # 1.基础配置
 
 ## 检查PyTorch 版本
